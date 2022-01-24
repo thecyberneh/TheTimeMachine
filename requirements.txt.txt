@@ -1,6 +1,0 @@
-sys
-requests
-re
-numpy
-colorama
-termcolor
